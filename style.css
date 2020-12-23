@@ -1,0 +1,28 @@
+h1 {
+    color:blue;
+}
+h2{
+    color:cadetblue;
+}
+.header{
+    display:flex;
+    justify-content:space-between;
+    background-color:pink;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:pink ;
+    flex-wrap: wrap;
+}
+body{
+    background-color:pink;
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+    background-color: midnightblue;
+}
+p,h2{
+    text-align: center;
+}
