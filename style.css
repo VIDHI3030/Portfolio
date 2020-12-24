@@ -1,27 +1,27 @@
 h1 {
-    color:blue;
+    color:#5e71e7;
 }
 h2{
-    color:cadetblue;
+    color:#5e71e7;
 }
 .header{
     display:flex;
     justify-content:space-between;
-    background-color:pink;
+    background-color:#f197c4;;
 }
 .grid{
     display:flex;
     justify-content: space-evenly;
-    background-color:pink ;
+    background-color:#f197c4;;
     flex-wrap: wrap;
 }
 body{
-    background-color:pink;
+    background-color:#f197c4;;
 }
 .footer{
     display: flex;
     justify-content: flex-start;
-    background-color: midnightblue;
+    background-color:#f197c4;
 }
 p,h2{
     text-align: center;
